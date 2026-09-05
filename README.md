@@ -3,10 +3,10 @@
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="refresh" content="0; url=/https://sites.google.com/view/vlad-coin">
+    <meta http-equiv="refresh" content="0; url=https://sites.google.com/view/vlad-coin">
     <title>Перенаправление...</title>
 </head>
 <body>
-    <p>Если перенаправление не произошло автоматически, пожалуйста, <a href="https://google.com">нажмите сюда</a>.</p>
+    <p>Если перенаправление не произошло автоматически, пожалуйста, <a href="https://sites.google.com/view/vlad-coin">нажмите сюда</a>.</p>
 </body>
 </html>
